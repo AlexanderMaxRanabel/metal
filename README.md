@@ -1,3 +1,11 @@
+## Metal Emacs
+Small Yet powerful.
+Compact.Fast
+Easy to Install(ı  hope)
+Based On Doom Emacs
+
+ORİGİNAL DOOM EMACS README
+
 <div align="center">
 
 # Doom Emacs
