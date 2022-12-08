@@ -1,6 +1,7 @@
 The MIT License (MIT) With Metal Emacs Exepctions
 
 Copyright (c) 2014-2022 Henrik Lissner.
+Edited By Alexander Max Ranable
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -20,3 +21,5 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ANY SOFTWARE LICENSED UNDER THIS LICENSE MAY NOT MAKE SOURCE CODE PRIVATE
