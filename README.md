@@ -1,8 +1,5 @@
 ## Metal Emacs
-Small Yet powerful.
-Compact.Fast
-Easy to Install(ı  hope)
-Based On Doom Emacs
+This is the place where i develop my fork
 
 ORİGİNAL DOOM EMACS README
 
